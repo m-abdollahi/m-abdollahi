@@ -28,7 +28,8 @@
 <a href="https://www.linkedin.com/in/mostafa-abdollahi-sarvi-320743200"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/m-abdollahi/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api?username=abdollahi&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
+	<a target="_blank" href="https://github.com/m-abdollahi/github-readme-stats">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 </p>
 
 
