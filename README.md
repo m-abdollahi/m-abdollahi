@@ -1,7 +1,5 @@
 ### Hi there, I'm Mostafa 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - ⚡ im a third year medical student at Iran university of medical sciences (IUMS)
 - 👀 I’m interested in Computational Neuroscience, Machine learning and Programming!
 - 🌱 I’m currently learning Bayesian inference and Causal modeling.
