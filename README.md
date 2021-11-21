@@ -2,11 +2,10 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ im a third year medical student at Iran university of medical sciences (IUMS)
+- 👀 I’m interested in Computational Neuroscience, Machine learning and Programming!
+- 🌱 I’m currently learning Bayesian inference and Causal modeling.
+- 💞️ I’m looking to collaborate on projects about applications of ML, analyzing neural data and theoretical problems in ML/neurosceince.
 
 ### Languages and Tools:
 
