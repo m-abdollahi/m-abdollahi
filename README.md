@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/mostafa-abdollahi-sarvi-320743200"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)</p>
+![Mostafa Abdollahi Sarvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-abdollahi)
 
 
 
