@@ -1,6 +1,6 @@
 ### Hi there, I'm Mostafa 👋 
 
-- ⚡ im a third year medical student at Iran university of medical sciences (IUMS)
+- ⚡ im a 5th year medical student at Iran university of medical sciences (IUMS) and Researcher at IPM based in Tehran,Iran
 - 👀 I’m interested in Computational Neuroscience, Machine learning and Programming!
 - 🌱 I’m currently learning Bayesian inference and Causal modeling.
 - 💞️ I’m looking to collaborate on projects about applications of ML, analyzing neural data and theoretical problems in ML/neurosceince.
